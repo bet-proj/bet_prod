@@ -1,9 +1,0 @@
-.env
-package.json
-configuration.json
-node_modules
-log
-import
-export
-*.log
-*.txt
